@@ -517,7 +517,7 @@ a:hover {
    ========================================================================== */
 /* 5.1 Wrapper
 -------------------------------------------------------------------------- */
-#home-section {
+#home {
     z-index: 2;
     width: 100%;
     overflow: hidden;
@@ -720,7 +720,7 @@ body.static-image {
    ========================================================================== */
 /* 7.1 Wrapper
 -------------------------------------------------------------------------- */
-#feature-section-page2 {
+#proposta {
     width: 100%;
     overflow: hidden;
     padding: 90px 0 60px;
@@ -979,7 +979,7 @@ body.static-image {
    ========================================================================== */
 /* 15.1 Wrapper
 -------------------------------------------------------------------------- */
-#contact-section {
+#contato {
     width: 100%;
     overflow: hidden;
     padding: 90px 0 60px;
@@ -1228,6 +1228,7 @@ body.static-image {
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
 }
+
 /*
 Notes:
     Color: #8ec899
